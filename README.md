@@ -4,7 +4,7 @@ This was a collaborative project during my master's degree, where I served as th
 
 This project proposes a framework for pedestrian assessment, discussing five aspects: comfortable, convivial, convenient, connected, and conspicuous. This framework combines qualitative and quantitative evaluations of the physical characteristics that affect the quality of urban design (including urban form, accessibility, convenience, urban layout, and features). In the second part, we selected three different types of case studies in Vienna for in-depth discussion, including a historical heritage project, a new development project, and a commercial street project. We critically examined how these physical characteristics affect the quality of urban design and, subsequently, how they influence pedestrians' perceptions of safety, comfort, and interest.
 
-![示意图](https://github.com/Jiamin77/Pedestrian-zone-walkability-analysis/blob/main/walkability%20(10).jpg)
+![示意图](https://github.com/Jiamin77/Pedestrian-zone-walkability-analysis/blob/main/walkability%20(1).jpg)
 ![示意图](https://github.com/Jiamin77/Pedestrian-zone-walkability-analysis/blob/main/walkability%20(2).jpg)
 ![示意图](https://github.com/Jiamin77/Pedestrian-zone-walkability-analysis/blob/main/walkability%20(3).jpg)
 ![示意图](https://github.com/Jiamin77/Pedestrian-zone-walkability-analysis/blob/main/walkability%20(4).jpg)
